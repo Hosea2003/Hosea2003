@@ -2,7 +2,7 @@
 
 I'm [Rindra Hosea](https://github.com/Hosea2003/), I'm an experienced full stack web developer.
 <p>
-I have:
+I have:<br>
 <span>- 2+ years experience in django developpement</span><br>
 <span>- 2+ years experience in React developpement</span><br>
 <span>- 2+ years experience in NodeJs (ExpressJs) developpement </span><br>
