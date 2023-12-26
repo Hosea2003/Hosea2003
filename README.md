@@ -3,10 +3,10 @@
 I'm [Rindra Hosea](https://github.com/Hosea2003/), I'm an experienced full stack web developer.
 <p>
 I have:
-- 2+ years experience in django developpement
-- 2+ years experience in React developpement
-- 2+ years experience in NodeJs (ExpressJs) developpement 
-- 1 year experience in Angular developpement
+<span>- 2+ years experience in django developpement</span>
+<span>- 2+ years experience in React developpement</span>
+<span>- 2+ years experience in NodeJs (ExpressJs) developpement </span>
+<span>- 1 year experience in Angular developpement</span>
 </p>
 
 ---
