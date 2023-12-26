@@ -1,6 +1,11 @@
 <h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
 I'm [Rindra Hosea](https://github.com/Hosea2003/), I'm an experienced full stack web developer.
+I have:
+- 2+ years experience in django developpement
+- 2+ years experience in React developpement
+- 2+ years experience in NodeJs (ExpressJs) developpement 
+- 1 year experience in Angular developpement
 
 ---
 
@@ -22,5 +27,5 @@ I'm [Rindra Hosea](https://github.com/Hosea2003/), I'm an experienced full stack
    [![Linkedin Badge](https://img.shields.io/badge/-rindrahosea-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rindra-hosea-mahefaniaina-6b4a93276/)](https://www.linkedin.com/in/rindra-hosea-mahefaniaina-6b4a93276/) 
    [![Gmail Badge](https://img.shields.io/badge/-rindrahosea-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.mahefaniainarindra@gmail.com)](mailto:v.mahefaniainarindra@gmail.com)
    [![Facebook Badge](https://img.shields.io/badge/-RindraHosea-036be4?style=flat-square&logo=Facebook&logoColor=white&link=[https://www.facebook.com/rindrahosea.mahefaniaina/](https://www.facebook.com/rindrahosea.mahefaniaina/))](https://www.facebook.com/rindrahosea.mahefaniaina/)
-   [![WhatsApp Badge](https://img.shields.io/badge/-+2613806268561-1c6340?style=flat&logo=WhatsApp&logoColor=white&link=)]()
+   [![WhatsApp Badge](https://img.shields.io/badge/-+261380628561-1c6340?style=flat&logo=WhatsApp&logoColor=white&link=)]()
 </p>
