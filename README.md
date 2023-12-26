@@ -21,10 +21,8 @@ I'm [Rindra Hosea](https://github.com/Hosea2003/), I'm an experienced full stack
 
    [![Linkedin Badge](https://img.shields.io/badge/-rindrahosea-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rindra-hosea-mahefaniaina-6b4a93276/)](https://www.linkedin.com/in/rindra-hosea-mahefaniaina-6b4a93276/) 
    [![Gmail Badge](https://img.shields.io/badge/-rindrahosea-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.mahefaniainarindra@gmail.com)](mailto:v.mahefaniainarindra@gmail.com)
-   [![Facebook Badge](https://img.shields.io/badge/-verma_RindraHosea-036be4?style=flat-square&logo=Facebook&logoColor=white&link=[https://www.facebook.com/rindrahosea.mahefaniaina/](https://www.facebook.com/rindrahosea.mahefaniaina/))](https://www.facebook.com/rindrahosea.mahefaniaina/)
-   [![WhatsApp Badge](https://img.shields.io/badge/-verma_anushka-1c6340?style=flat&logo=WhatsApp&logoColor=white&link=https://auth.geeksforgeeks.org/user/verma_anushka/articles)](https://auth.geeksforgeeks.org/user/verma_anushka/articles)
-
-   <!-- [![Twitter Badge](https://img.shields.io/badge/-@verma_anushkaa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/verma_anushkaa)](https://twitter.com/verma_anushkaa)  -->
+   [![Facebook Badge](https://img.shields.io/badge/-RindraHosea-036be4?style=flat-square&logo=Facebook&logoColor=white&link=[https://www.facebook.com/rindrahosea.mahefaniaina/](https://www.facebook.com/rindrahosea.mahefaniaina/))](https://www.facebook.com/rindrahosea.mahefaniaina/)
+   [![WhatsApp Badge](https://img.shields.io/badge/-verma_anushka-1c6340?style=flat&logo=WhatsApp&logoColor=white&link=)]()
 
   <p align="center">
     Show ❤️ by starring repositories you find good! 
