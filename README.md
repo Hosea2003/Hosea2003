@@ -22,19 +22,5 @@ I'm [Rindra Hosea](https://github.com/Hosea2003/), I'm an experienced full stack
    [![Linkedin Badge](https://img.shields.io/badge/-rindrahosea-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rindra-hosea-mahefaniaina-6b4a93276/)](https://www.linkedin.com/in/rindra-hosea-mahefaniaina-6b4a93276/) 
    [![Gmail Badge](https://img.shields.io/badge/-rindrahosea-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.mahefaniainarindra@gmail.com)](mailto:v.mahefaniainarindra@gmail.com)
    [![Facebook Badge](https://img.shields.io/badge/-RindraHosea-036be4?style=flat-square&logo=Facebook&logoColor=white&link=[https://www.facebook.com/rindrahosea.mahefaniaina/](https://www.facebook.com/rindrahosea.mahefaniaina/))](https://www.facebook.com/rindrahosea.mahefaniaina/)
-   [![WhatsApp Badge](https://img.shields.io/badge/-+2613806268561-1c6340?style=flat&logo=WhatsApp&logoColor=white&link=)]
-
-  <p align="center">
-    Show ❤️ by starring repositories you find good! 
-    <br />
-    ⭐️ From [Anushka Verma](https://github.com/verma-anushka)
-    <br />
-    Also, star and fork this repository if you wish to give this new feature a try!
-  </p>
+   [![WhatsApp Badge](https://img.shields.io/badge/-+2613806268561-1c6340?style=flat&logo=WhatsApp&logoColor=white&link=)]()
 </p>
-
-<div align="right">
-  
-[![HitCount](http://hits.dwyl.com/verma-anushka/verma-anushka.svg)](http://hits.dwyl.com/verma-anushka/verma-anushka) ![ViewCount](https://views.whatilearened.today/views/github/verma-anushka/verma-anushka.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://verma-anushka.github.io/anushkaverma/)
-
-</div>
