@@ -27,7 +27,7 @@ I have:<br>
   <i>Let's connect and chat! Find me on the web...</i>
 
    [![Linkedin Badge](https://img.shields.io/badge/-rindrahosea-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rindra-hosea-mahefaniaina-6b4a93276/)](https://www.linkedin.com/in/rindra-hosea-mahefaniaina-6b4a93276/) 
-   [![Gmail Badge](https://img.shields.io/badge/-rindrahosea-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.mahefaniainarindra@gmail.com)](mailto:v.mahefaniainarindra@gmail.com)
+   [![Gmail Badge](https://img.shields.io/badge/-rindrahosea-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mahefaniainarindra@gmail.com)](mailto:mahefaniainarindra@gmail.com)
    [![Facebook Badge](https://img.shields.io/badge/-RindraHosea-036be4?style=flat-square&logo=Facebook&logoColor=white&link=[https://www.facebook.com/rindrahosea.mahefaniaina/](https://www.facebook.com/rindrahosea.mahefaniaina/))](https://www.facebook.com/rindrahosea.mahefaniaina/)
    [![WhatsApp Badge](https://img.shields.io/badge/-+261380628561-1c6340?style=flat&logo=WhatsApp&logoColor=white&link=)]()
 </p>
